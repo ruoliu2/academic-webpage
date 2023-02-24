@@ -9,7 +9,7 @@ date: '2021-10-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: gif by Our team
+  caption: jpg by Our team
   focal_point: Smart
 
 links:
