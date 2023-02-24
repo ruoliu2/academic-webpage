@@ -236,8 +236,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Leave me a msg here!
+      # text: |-
+      #   Leave me a msg here!
+
       # Contact (add or remove contact options as necessary)
       email: ruoliu2@illinois.edu
       phone: 217 200 1083
@@ -249,15 +250,19 @@ sections:
         postcode: '61820'
         country: United States
         country_code: US
-      directions: Grainger
+      directions: Grainger Dungeon
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Nah I'm not on Twitter
           link: 'https://twitter.com/Twitter'
+        - icon: youtube
+          icon_pack: fab
+          name: Well I'm def on YouTube, check me out
+          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
@@ -268,14 +273,17 @@ sections:
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
+
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
+      
     design:
       columns: '2'
 ---
