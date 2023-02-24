@@ -255,18 +255,14 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: weixin
           icon_pack: fab
-          name: Nah I'm not on Twitter
-          link: 'https://twitter.com/Twitter'
+          name: Wechat 13813390796
+          link: 'https://u.wechat.com/MGM85HajojLUwVLKmameq0k'
         - icon: youtube
           icon_pack: fab
           name: Well I'm def on YouTube, check me out
           link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
