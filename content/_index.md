@@ -156,7 +156,7 @@ sections:
     id: projects
     content:
       title: Projects
-      text: Still under construction, more to come soon!
+      subtitle: Still under construction, more to come soon!
       filters:
         folders:
           - project
