@@ -12,12 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: about.text
-    id: about
-    content:
-      title: About This Site
-      text: |
-        Still under construction, more to come soon!
   - block: features
     content:
       title: Skills
@@ -156,10 +150,13 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
+
   - block: portfolio
     id: projects
     content:
       title: Projects
+      text: Still under construction, more to come soon!
       filters:
         folders:
           - project
