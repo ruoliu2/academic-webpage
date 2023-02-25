@@ -57,9 +57,9 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-              GPA: 3.93/4.0
-              Major: Computer Science
-              I got no previous internship before. Hire me please! I believe I'm professional and capable. :)
+              * GPA: 3.93/4.0
+              * Major: Computer Science
+              * I got no previous internship before. Hire me please! I believe I'm professional and capable. :)
         # - title: CEO
         #   company: GenCoin
         #   company_url: ''
