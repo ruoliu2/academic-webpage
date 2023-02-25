@@ -12,9 +12,12 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block:
-    text:
-      this page is still under construction, more to come soon!
+  - block: about.text
+    id: about
+    content:
+      title: About This Site
+      text: |
+        Still under construction, more to come soon!
   - block: features
     content:
       title: Skills
