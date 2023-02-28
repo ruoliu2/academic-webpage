@@ -11,7 +11,7 @@ social:
     link: https://github.com/ruoliu2
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/ruo-liu
+    link: https://www.linkedin.com/in/ruo-liu/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf

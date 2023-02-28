@@ -253,7 +253,7 @@ sections:
         postcode: '61820'
         country: United States
         country_code: US
-      directions: Grainger Dungeon
+      directions: Grainger
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -264,7 +264,7 @@ sections:
           link: 'https://u.wechat.com/MGM85HajojLUwVLKmameq0k'
         - icon: youtube
           icon_pack: fab
-          name: Well I'm def on YouTube, check me out
+          name: YouTube
           link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
         - icon: video
           icon_pack: fas
