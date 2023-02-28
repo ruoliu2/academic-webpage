@@ -95,8 +95,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    # mapnik
-    provider: 'google'
+    provider: ''
     api_key: ''
     zoom: 15
 
