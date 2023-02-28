@@ -287,5 +287,5 @@ sections:
         longitude: '-88.23412380224788'
       
     design:
-      columns: '1'
+      columns: '2'
 ---
