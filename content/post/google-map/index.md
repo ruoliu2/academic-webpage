@@ -46,8 +46,7 @@ categories:
 
 ## Overview
 
-This Post introduce the Google Map API and how to use it in your website. It's easy to make Map JavaScript API dynamically ajust its size to fit the screen size. 
-But for Map embed API, you still can set the width of height of iframe to percentage to make it fit the screen size.
+This Post introduce the Google Map API and how to use it in your website. It's easy to use Map embed API (which is free), and Map JavaScript API (charge a small fee) to add a map to your website.
 
 ## Using the API
 More to come soon!
