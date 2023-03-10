@@ -30,12 +30,10 @@ url_video: ''
 slides: ''
 ---
 
-• Parse over 20,000 UFO sightings, locations, and users and insert into MySQL database on GCP
+• Use C++ to Process over 14k airline flight data store in CVS file
 
-• Developed dynamic webpage to view and modify data using React framework
+• Compute the shortest route with Dijkstra’s algorithm
 
-• User can add, update, rate UFO Sightings, processed by spring boot backend
+• Compute the centrality of each airport and output the top 50 airports
 
-• Wrote flexible queries which accept variable amount of search parameter
-
-• Display dynamic list of high rated sightings with SQL procedure
+• Create a gif file to display BFS and the shortest the route for user to visualize route result
