@@ -51,15 +51,14 @@ sections:
       items:
         - title: Bachelor of Science in Computer Science
           company: University of Illinois at Urbana-Champaign
-          company_url: ''
+          company_url: ""
           company_logo: illini
           location: Illinois
-          date_start: '2020-01-01'
-          date_end: ''
+          date_start: "2020-01-01"
+          date_end: ""
           description: |2-
               * GPA: 3.93/4.0
               * Major: Computer Science
-              * I got no previous internship before. Hire me please! I believe I'm professional and capable. :)
         # - title: CEO
         #   company: GenCoin
         #   company_url: ''
@@ -82,7 +81,7 @@ sections:
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: "2"
 
   # - block: accomplishments
   #   content:
@@ -128,8 +127,8 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: ""
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -150,8 +149,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
-
+      columns: "2"
 
   - block: portfolio
     id: projects
@@ -170,14 +168,14 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: "*"
         # - name: Deep Learning
         #   tag: Deep Learning
         - name: Other
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: "1"
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -233,7 +231,7 @@ sections:
     content:
       title: Popular Topics
     design:
-      columns: '2'
+      columns: "2"
 
   - block: contact
     id: contact
@@ -251,7 +249,7 @@ sections:
         street: 707 4th St
         city: Champaign
         region: IL
-        postcode: '61820'
+        postcode: "61820"
         country: United States
         country_code: US
       directions: Grainger
@@ -262,15 +260,15 @@ sections:
         - icon: weixin
           icon_pack: fab
           name: Wechat 13813390796
-          link: 'https://u.wechat.com/MGM85HajojLUwVLKmameq0k'
+          link: "https://u.wechat.com/MGM85HajojLUwVLKmameq0k"
         - icon: youtube
           icon_pack: fab
           name: YouTube
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: "https://zoom.com"
       # Automatically link email and phone or display as text?
       autolink: true
 
@@ -284,11 +282,11 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
       coordinates:
-        latitude: '40.109714957017594'
-        longitude: '-88.23412380224788'
-      
+        latitude: "40.109714957017594"
+        longitude: "-88.23412380224788"
+
     design:
-      columns: '2'
+      columns: "2"
 
   - block: markdown
     content:
@@ -298,5 +296,5 @@ sections:
         </iframe>
         </p>
       design:
-        columns: '1'
+        columns: "1"
 ---
