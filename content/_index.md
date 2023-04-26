@@ -252,7 +252,7 @@ sections:
         postcode: "61820"
         country: United States
         country_code: US
-      directions: Grainger
+      # directions: Grainger
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -261,14 +261,14 @@ sections:
           icon_pack: fab
           name: Wechat 13813390796
           link: "https://u.wechat.com/MGM85HajojLUwVLKmameq0k"
-        - icon: youtube
-          icon_pack: fab
-          name: YouTube
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: "https://zoom.com"
+        # - icon: youtube
+        #   icon_pack: fab
+        #   name: YouTube
+        #   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: "https://zoom.com"
       # Automatically link email and phone or display as text?
       autolink: true
 
