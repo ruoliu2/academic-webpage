@@ -242,8 +242,8 @@ sections:
       #   Leave me a msg here!
 
       # Contact (add or remove contact options as necessary)
-      email: ruoliu2@illinois.edu
-      phone: 217 200 1083
+      email: ruoliu.nj@gmail.com
+      # phone: 217 200 1083
       # appointment_url: 'https://calendly.com'
       address:
         street: 707 4th St
