@@ -59,69 +59,8 @@ sections:
           description: |2-
               * GPA: 3.93/4.0
               * Major: Computer Science
-        # - title: CEO
-        #   company: GenCoin
-        #   company_url: ''
-        #   company_logo: org-gc
-        #   location: California
-        #   date_start: '2021-01-01'
-        #   date_end: ''
-        #   description: |2-
-        #       Responsibilities include:
-
-        #       * Analysing
-        #       * Modelling
-        #       * Deploying
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: "2"
-
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
 
   - block: collection
     id: posts
@@ -179,15 +118,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
 
   # - block: collection
   #   id: featured
@@ -252,35 +182,12 @@ sections:
         postcode: "61820"
         country: United States
         country_code: US
-      # directions: Grainger
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: weixin
           icon_pack: fab
           name: Wechat 13813390796
           link: "https://u.wechat.com/MGM85HajojLUwVLKmameq0k"
-        # - icon: youtube
-        #   icon_pack: fab
-        #   name: YouTube
-        #   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-        # - icon: video
-        #   icon_pack: fas
-        #   name: Zoom Me
-        #   link: "https://zoom.com"
-      # Automatically link email and phone or display as text?
       autolink: true
-
-      # Email form provider
-
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
       coordinates:
         latitude: "40.109714957017594"
         longitude: "-88.23412380224788"
@@ -288,13 +195,4 @@ sections:
     design:
       columns: "2"
 
-  # - block: markdown
-  #   content:
-  #     text: |-
-  #       <p align="center">
-  #       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.4667756593976!2d-88.23631784922597!3d40.10960007930084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880cd7722b218483%3A0x83ac1a3e87e9007c!2s707%20S%204th%20St%2C%20Champaign%2C%20IL%2061820!5e0!3m2!1sen!2sus!4v1677555163433!5m2!1sen!2sus" width=80% height=400 style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-  #       </iframe>
-  #       </p>
-  #     design:
-  #       columns: "1"
 ---
