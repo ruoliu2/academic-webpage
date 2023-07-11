@@ -116,3 +116,4 @@ security:
 
 footer:
   custom: "This is a custom footer"
+  attribution: false
