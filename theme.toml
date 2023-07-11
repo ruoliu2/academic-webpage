@@ -38,6 +38,9 @@ tags = ["widgets",
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
+[outputs]
+  footer = ["HTML"]
+
 [author]
   name = "Ruo Liu"
   homepage = ""
