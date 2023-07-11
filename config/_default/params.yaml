@@ -51,8 +51,6 @@ footer:
   #     share_alike: false
   #     allow_commercial: false
 
-# Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
@@ -113,6 +111,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-footer:
-  custom: "This is a custom footer"
