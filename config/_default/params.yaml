@@ -43,9 +43,8 @@ header:
 # Site footer
 
 footer:
-  custom: "This is a custom footer"
-  # copyright:
-  #   notice: ' {year} © Me.'
+  copyright:
+    notice: ' {year} © Me.'
   #   license:
   #     enable: false
   #     allow_derivatives: false
@@ -114,3 +113,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+footer:
+  custom: "This is a custom footer"
