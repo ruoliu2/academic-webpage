@@ -135,7 +135,7 @@ sections:
 
       # Contact (add or remove contact options as necessary)
       email: ruoliu.nj@gmail.com
-      # phone: 217 200 1083
+      phone: +1 217 200 1083
       # appointment_url: 'https://calendly.com'
       address:
         street: 707 4th St
