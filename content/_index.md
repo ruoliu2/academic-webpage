@@ -12,30 +12,30 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 90%
-          icon: python
-          icon_pack: fab
-        - name: C/C++
-          description: 80%
-          icon: c
-          icon_pack: fab
-        - name: Java
-          description: 70%
-          icon: java
-          icon_pack: fab
-        - name: Go
-          description: 60%
-          icon: golang
-          icon_pack: fab
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Python
+  #         description: 90%
+  #         icon: python
+  #         icon_pack: fab
+  #       - name: C/C++
+  #         description: 80%
+  #         icon: c
+  #         icon_pack: fab
+  #       - name: Java
+  #         description: 70%
+  #         icon: java
+  #         icon_pack: fab
+  #       - name: Go
+  #         description: 60%
+  #         icon: golang
+  #         icon_pack: fab
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
 
   - block: experience
     content:
@@ -118,7 +118,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      
+
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -156,5 +156,4 @@ sections:
 
     design:
       columns: "2"
-
 ---
