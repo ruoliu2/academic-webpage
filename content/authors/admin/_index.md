@@ -31,5 +31,5 @@ first_name: Ruo
 email: ruoliu2@illinois.edu
 ---
 
-Studying Computer Science at UIUC.
+CS @ UIUC
 {style="text-align: justify;"}

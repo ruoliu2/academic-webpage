@@ -12,30 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: Python
-  #         description: 90%
-  #         icon: python
-  #         icon_pack: fab
-  #       - name: C/C++
-  #         description: 80%
-  #         icon: c
-  #         icon_pack: fab
-  #       - name: Java
-  #         description: 70%
-  #         icon: java
-  #         icon_pack: fab
-  #       - name: Go
-  #         description: 60%
-  #         icon: golang
-  #         icon_pack: fab
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
 
   - block: experience
     content:
@@ -57,7 +33,7 @@ sections:
           date_start: "2020-01-01"
           date_end: ""
           description: |2-
-              * GPA: 3.93/4.0
+              * GPA: 3.83/4.0
               * Major: Computer Science
     design:
       columns: "2"
