@@ -8,10 +8,10 @@ main:
     url: "#about"
     weight: 10
   - name: Posts
-    url: "#posts"
+    url: "post"
     weight: 20
   - name: Projects
-    url: "#projects"
+    url: "project"
     weight: 30
   # - name: Talks
   #   url: '#talks'
@@ -26,5 +26,5 @@ main:
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/resume.pdf
+    url: https://www.icloud.com/iclouddrive/0b3gYwkY-ts699JNh9goyApiA#Ruo_Liu_5_resume
     weight: 70
