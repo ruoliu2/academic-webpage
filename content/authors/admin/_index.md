@@ -108,6 +108,6 @@ highlight_name: true
 
 I am undergraduate studying Computer Science at the Univerisity of Illinois at Urbana-Champaign. I am passionate about learning and developing Distributed Systems, Database Management Systems, and Software Engineering.
 
-I'm expected to graduate with a Bachelor Science degree from UIUC in 2024.
+I'm expecting to graduate with a Bachelor Science degree from UIUC in 2024.
 
 {style="text-align: justify;"}
