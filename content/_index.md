@@ -117,20 +117,8 @@ sections:
 
       # Contact (add or remove contact options as necessary)
       email: ruoliu.nj@gmail.com
-      phone: +1 217 200 1083
+      # phone: +1 217 200 1083
       # appointment_url: 'https://calendly.com'
-      address:
-        street: 707 4th St
-        city: Champaign
-        region: IL
-        postcode: "61820"
-        country: United States
-        country_code: US
-      contact_links:
-        - icon: weixin
-          icon_pack: fab
-          name: Wechat 13813390796
-          link: "https://u.wechat.com/MGM85HajojLUwVLKmameq0k"
       autolink: true
       coordinates:
         latitude: "40.109714957017594"
